@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] Included a How To Use page to help users who might not know how to use the app and includes a button that allows user to go back to the main page.
+* [X] Changed app logo to one with a checkmark to denote a to-do app.
+* [X] Changed color scheme to one that is more pleasing to the eye.
 
 ## Video Walkthrough
 
