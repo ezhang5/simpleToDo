@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had one error that took me a while to figure out, but eventually realized that I had spelled a variable incorrectly.
 
 ## License
 
